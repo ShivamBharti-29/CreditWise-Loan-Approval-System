@@ -4,7 +4,7 @@ A high-performance machine learning application that predicts loan eligibility b
 
 ## 🚀 Features
 - **Dual Model Support**: Toggle between a fast Logistic Regression and a high-accuracy Random Forest.
-- **Automated Pipeline**: Uses Scikit-Learn `Pipeline` and `ColumnTransformer` for seamless data preprocessing.
+- **Automated Pipeline**: Uses Scikit-Learn `Pipeline` for seamless data preprocessing.
 - **Interactive Web UI**: Built with Streamlit for real-time predictions.
 
 ## 📊 Model Performance
